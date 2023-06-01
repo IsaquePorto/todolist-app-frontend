@@ -2,6 +2,8 @@
 
 ###  Aplicacao desenvolvida com nodejs, react e mysql 
 
+**Atencao** Baixar também os códigos dos repositórios todolist-app-db e todolist-app-backend para a aplicação completa 
+
 ## Criar imagem docker do BD
 
 *cd todolist_app_db*
